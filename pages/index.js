@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Okware |web3 Developer</title>
         <meta name="description" content="I’m a web3 developer :)." />
-        <link rel="icon" href="/lewiss.png" />
+        <link rel="icon" href="/assets/lewiss.png" />
       </Head>
     <Main />
     <About />
