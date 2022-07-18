@@ -5,7 +5,7 @@ import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 // import { useRouter } from 'next/router';
-import NavLogo from '../public/assets/lewiss.png'
+import NavLogo from '../public/assets/lewislogo2.png'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -60,8 +60,8 @@ const Navbar = () => {
             <Image
               src={NavLogo}
               alt='/'
-              width='100'
-              height='50'
+              width='110'
+              height='90'
               className='cursor-pointer'
             />
           </a>
@@ -120,7 +120,7 @@ const Navbar = () => {
                   <Image
                     src={NavLogo}
                     width='87'
-                    height='35'
+                    height='65'
                     alt='/'
                   />
                 </a>
@@ -134,7 +134,7 @@ const Navbar = () => {
             </div>
             <div className='border-b border-gray-300 my-4'>
               <p className='w-[85%] md:w-[90%] py-4'>
-                Let&#39;s build something legendary together
+                Let&#39;s build something together
               </p>
             </div>
           </div>

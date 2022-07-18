@@ -13,7 +13,7 @@ const Main = () => {
             LET&#39;S BUILD SOMETHING TOGETHER :)
           </p>
           <h1 className='py-4 text-gray-700'>
-            Hi, I&#39;m <span className='text-[#5651e5]'> Lewis</span>
+            Hi, I&#39;m <span className='text-[#5651e5] cursor-pointer'> Lewis</span>
           </h1>
           <h1 className='py-2 text-gray-700'>A Web3 Developer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
